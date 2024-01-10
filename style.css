@@ -123,7 +123,3 @@ body {
 .login-button:focus {
   background-color: hsla(var(--primary-medium-hsl));
 }
-
-.color {
-  color: hsl(0, 100%, 65%);
-}
